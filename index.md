@@ -1,10 +1,19 @@
 
-> Blockquotes can also be nested...
->>>>>>*This is italic text*
+> All We Have To Do Is Decide What To Do With The Time That Is Given To Us. 
+> *-Gandalf*
 
-*This is italic text*
-*This is italic text*
-# h1 Heading
+# About Me
+![Minion](https://octodex.github.com/images/minion.png)
+im a a;kng;ajna'nb;szbnerb;aIEbrg;aleirgb
+## structure
+basic essential is to showcase personal proj and all
+just need basic intro, where i go, reference cv
+main thing is at projects
+
++ education
++ work experience
++ projects
+
 
 ## h2 Heading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae rutrum ipsum. Quisque varius quam erat, sed rhoncus justo faucibus non. Nunc vitae pharetra arcu. Fusce vel urna dapibus, laoreet metus vitae, congue eros. Suspendisse potenti. Pellentesque bibendum in lacus vel finibus. Nulla dictum dolor dui, faucibus ultrices leo feugiat vitae. Donec sed tincidunt purus. Etiam pellentesque mauris vitae odio eleifend eleifend. Duis justo magna, dictum in auctor eget, ultricies vitae augue. Duis eu nunc nisl. Cras congue eget lorem ut hendrerit.
@@ -44,15 +53,6 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
 
 ## Lists
 
