@@ -3,10 +3,11 @@
 > *-Gandalf*
 
 # About Me
-im a a;kng;ajna'nb;szbnerb;aIEbrg;aleirgb
+//TODO change this file to index.md
+Hey there! I'm Junwei, a computer scientist that likes to dabble in the visuals and explore many different interests!
 
 ## CS4247 - Graphics Rendering Techniques
-![test](images/4247/4247diff.png)
+![test](images/4247/4247diff.jpg)
 In this project, we get to render graphics by utilising different techniques. Some includes the Specific topics include the raster graphics pipeline, viewing and transformation, real-time mapping techniques, real-time shadow algorithms, local reflection models, global illumination, distributed ray tracing, photon mapping, radiosity, volume rendering, image-based rendering and modelling, and strategies for anti-aliasing and photo-realism.
 
 
