@@ -3,8 +3,13 @@
 > *-Gandalf*
 
 # About Me
-![Minion](https://octodex.github.com/images/minion.png)
 im a a;kng;ajna'nb;szbnerb;aIEbrg;aleirgb
+
+## CS4247 - Graphics Rendering Techniques
+![test](images/4247/4247diff.png)
+In this project, we get to render graphics by utilising different techniques. Some includes the Specific topics include the raster graphics pipeline, viewing and transformation, real-time mapping techniques, real-time shadow algorithms, local reflection models, global illumination, distributed ray tracing, photon mapping, radiosity, volume rendering, image-based rendering and modelling, and strategies for anti-aliasing and photo-realism.
+
+
 ## structure
 basic essential is to showcase personal proj and all
 just need basic intro, where i go, reference cv
@@ -14,9 +19,6 @@ main thing is at projects
 + work experience
 + projects
 
-## CS4247 - Graphics Rendering Techniques
-![test](images/2dClothWall.png)
-sample image and description of this module
 
 
 ## h2 Heading
