@@ -4,7 +4,10 @@
 
 # About Me
 //TODO change this file to index.md
-Hey there! I'm Junwei, a computer scientist that likes to dabble in the visuals and explore many different interests!
+
+Hey there! I'm Junwei, a computer scientist that likes to dabble in the visuals and explore many different interests! 
+
+Seems like this is going to be a blog post before I am going to convert it to my personal website!! So exciting!
 
 ## CS4247 - Graphics Rendering Techniques
 In this project, we get to render graphics by utilising different techniques. Some include the raster graphics pipeline, viewing and transformation, real-time mapping techniques, real-time shadow algorithms, local reflection models, global illumination, distributed ray tracing, photon mapping, radiosity, volume rendering, image-based rendering and modelling, and strategies for anti-aliasing and photo-realism.
@@ -41,6 +44,10 @@ main thing is at projects
   <tr>
     <td><img src="images/4247/radiosity1.jpg" width=270 ></td>
     <td><img src="images/4247/radiosity1.jpg" width=270 ></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">First Screen Page</td>
+     <td style="text-align:center">Holiday Mention</td>
   </tr>
  </table>
 
