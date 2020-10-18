@@ -14,6 +14,10 @@ main thing is at projects
 + work experience
 + projects
 
+## CS4247 - Graphics Rendering Techniques
+![test](images/2dClothWall.png)
+sample image and description of this module
+
 
 ## h2 Heading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae rutrum ipsum. Quisque varius quam erat, sed rhoncus justo faucibus non. Nunc vitae pharetra arcu. Fusce vel urna dapibus, laoreet metus vitae, congue eros. Suspendisse potenti. Pellentesque bibendum in lacus vel finibus. Nulla dictum dolor dui, faucibus ultrices leo feugiat vitae. Donec sed tincidunt purus. Etiam pellentesque mauris vitae odio eleifend eleifend. Duis justo magna, dictum in auctor eget, ultricies vitae augue. Duis eu nunc nisl. Cras congue eget lorem ut hendrerit.
