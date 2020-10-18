@@ -21,6 +21,8 @@ For this project, we are to render a scene in a room using the radiosity method,
 :-------------------------:|:-------------------------:
 ![wireframe](images/4247/radiosity1.jpg) | ![rendered](images/4247/radiosity2.png)
 
+
+
 ## structure
 basic essential is to showcase personal proj and all
 just need basic intro, where i go, reference cv
@@ -30,7 +32,17 @@ main thing is at projects
 + work experience
 + projects
 
-
+## test
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td><img src="images/4247/radiosity1.jpg" width=270 ></td>
+    <td><img src="images/4247/radiosity1.jpg" width=270 ></td>
+  </tr>
+ </table>
 
 ## h2 Heading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae rutrum ipsum. Quisque varius quam erat, sed rhoncus justo faucibus non. Nunc vitae pharetra arcu. Fusce vel urna dapibus, laoreet metus vitae, congue eros. Suspendisse potenti. Pellentesque bibendum in lacus vel finibus. Nulla dictum dolor dui, faucibus ultrices leo feugiat vitae. Donec sed tincidunt purus. Etiam pellentesque mauris vitae odio eleifend eleifend. Duis justo magna, dictum in auctor eget, ultricies vitae augue. Duis eu nunc nisl. Cras congue eget lorem ut hendrerit.
