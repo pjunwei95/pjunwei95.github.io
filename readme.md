@@ -9,9 +9,7 @@ Hey there! I'm Junwei, a computer scientist that likes to dabble in the visuals 
 ## CS4247 - Graphics Rendering Techniques
 In this project, we get to render graphics by utilising different techniques. Some include the raster graphics pipeline, viewing and transformation, real-time mapping techniques, real-time shadow algorithms, local reflection models, global illumination, distributed ray tracing, photon mapping, radiosity, volume rendering, image-based rendering and modelling, and strategies for anti-aliasing and photo-realism.
 
-![test](images/4247/4247diff.jpg)
-![test1](images/4247/cornell_box_1.png)
-![test2](images/4247/new_model_1.png)
+![cornell](images/4247/cornell_box_1.png) ![wireframe](images/4247/radiosity1.jpg) ![rendered](images/4247/radiosity2.png)
 For this project, we are to render a scene in a room using the radiosity method, which utilise diffuse-to-diffuse method for colour computation.
 
 
