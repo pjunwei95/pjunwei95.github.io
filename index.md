@@ -1,36 +1,39 @@
 
 > All we have to do is decide what to do with the time that is given to us. 
 
-> *Gandalf*
+*Gandalf by J.R.R. Tolkien*
 
 # About Me
 Hey there! I'm Pei Junwei, and I like anything to do with computer or art, with some experience in game development!
 
-Seems like this is going to be a blog post before I am going to convert it to my personal website!! So exciting!
+Welcome to my humble page! Feel free to take a look at some of the exciting stuff I had going on!
 
-## Contents
-Here will be a brief overview of what this page will entails:
-+ Work Experience
-+ Education
+Seems like this is going to be a blog post before I am going to convert it to my personal website!! So exciting!
 
 # Work Experience
 ## Ubisoft Singapore
 ---
-This was an exciting time in my career to actually explore working in a triple-A game industry in Singapore! I joined the Ubisoft [C++]ampus Apprenticeship programme.
+This was an exciting time in my career to actually explore working in a triple-A game industry in Singapore! I get to join Ubisoft under their [C++]ampus Apprenticeship programme and am very lucky to experience two teams!
 
-### Apprenticeship
-I get to work with the Rendering team in developing my own simple [renderer](https://github.com/pjunwei95/myRenderer) from scratch in C++!
+### **Apprenticeship**
++ Gameplay UI
+  + I get to  participate in the sprint cycles with JIRA tasks and contribute code to the unannounced game!
+  + I was involved in UI, dealing with the Model-View-ViewModel (MVVM) paradigm and contributed code with various in-house tools/Visual Studios C++.
+  + I also worked with Technical Artists and UX designers to support JIRAs.
 
-I also get to work with the UI team and participate in the sprint cycles with JIRA tasks and contribute code to the unannounced game!
-### Digipen
-I also have to attend lessons twice a week under Digipen Singapore which consists of C, C++ and introduction to OpenGL Graphics. The rest of the details will be highlighted in the education section. Here are some of the notable projects:
++ Rendering
+  + I've learnt to design and write simple C++ [renderer](https://github.com/pjunwei95/myRenderer) from scratch, including simple array libraries, FPS controller and math library
 
- Conway's Game of Life | Simple platformer game
+### **Digipen**
+I also have to attend lessons twice a week under Digipen Singapore which consists of C, C++ and introduction to OpenGL Graphics.
+
+Here are some of the notable projects:
+
+ Conway's Game of Life | Simple platformer
 :-------------------------:|:-------------------------:
 ![a](images/digipen/GOLrandom.gif) | ![b](images/digipen/platformer.gif)
 
 **Sudoku Solver**
-
 ![b](images/digipen/sudoku.png)
 
 ## SkillsFuture Singapore
@@ -43,6 +46,7 @@ This was a company-wide proof-of-concept that tests the viability of the blockch
 
 ### Skills Taxonomy Harmoniser (STH)
 This is a proof-of-concept that I spearheaded solely and coded from scratch which dealt with several frameworks and is primiarily written in Java.
+
  Overview of STH | Command-Line
 :-------------------------:|:-------------------------:
 ![a](images/ssg/ssgsthcomp.jpg) | ![b](images/ssg/Harmonise.PNG)
@@ -54,8 +58,9 @@ These are selected modules that are notable for their interesting projects invol
 ## NM3216 - Game Design
 This is a pretty cool mod which exposes me first to game development and I get to work with people from different faculty background to create our very own game! It was a fun passion project that we created.
 
-Opening
+**Opening**
 ![a](images/3216/mirage.gif)
+
  Main Menu | Gameplay
 :-------------------------:|:-------------------------:
 ![a](images/3216/3216start.jpg) | ![b](images/3216/3216tutalt.jpg)
@@ -78,9 +83,14 @@ For this project, we are to render a scene in a room using the radiosity method,
 :-------------------------:|:-------------------------:
 ![wireframe](images/4247/radiosity1.jpg) | ![rendered](images/4247/radiosity2.png)
 
+# Special Mentions
+Here are some of my other special mentions. Feel free to contact me at my personal email for more information!
+
+My project gallery are as shown below. 
 
 ## CS4243 - Computer Vision and Pattern Recognition
 ---
+
  Sift Descriptors | 
  :-:
 ![a](images/4243/solution_sift.jpg)
@@ -98,11 +108,11 @@ For this project, we are to render a scene in a room using the radiosity method,
 
 ![b](images/3247.png)
 
-## Rolesim Data
+## TUE: Data Engineering
 
 ![b](images/rolesim_supervised.png)
 
-## Simulation in Computer Graphics
+## TUE: Simulation in Computer Graphics
 Cloth physics
 ![b](images/2dConfig.png)
 
